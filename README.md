@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Anna16625/FirstPipeline/_apis/build/status/apanchap.pipelines-python-django)](https://dev.azure.com/Anna16625/FirstPipeline/_build/latest?definitionId=5)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
